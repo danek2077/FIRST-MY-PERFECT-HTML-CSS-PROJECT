@@ -1,0 +1,248 @@
+/*Обнуление*/
+*{padding: 0;margin: 0;border: 0;}
+*,*:before,*:after{-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box;}
+:focus,:active{outline: none;}
+a:focus,a:active{outline: none;}
+nav,footer,header,aside{display: block;}
+html,body{height:100%;width:100%;font-size:100%;line-height:1;font-size:14px;-ms-text-size-adjust:100%;-moz-text-size-adjust:100%;-webkit-text-size-adjust:100%;}
+input,button,textarea{font-family:inherit;}
+input::-ms-clear{display: none;}
+button{cursor: pointer;}
+button::-moz-focus-inner {padding:0;border:0;}
+a,a:visited{text-decoration: none;}
+a:hover{text-decoration: none;}
+ul li{list-style: none;}
+img{vertical-align: top;}
+h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
+/*--------------------*/
+
+.trvl{
+	/* Style for "Travel" */
+width: 67px;
+height: 10px;
+opacity: 0.6;
+color: #273d46;
+font-family: "Arial MT";
+font-size: 14px;
+font-weight: 400;
+font-style: normal;
+letter-spacing: normal;
+line-height: 40px;
+text-align: center;
+text-transform: uppercase;
+/* Text style for "Travel" */
+font-style: normal;
+letter-spacing: 2.8px;
+line-height: normal;
+}
+.trvl{
+margin: 168px 602px 0px 671px ;
+}
+body{
+width: 1440px;
+height: 1700px;
+	background: url(css_template.psd.png);
+	}
+.donec{
+	/* Style for "Donec sed" */
+width: 721px;
+height: 75px;
+color: #273d46;
+font-family: "Times New Roman PSMT";
+font-size: 36px;
+font-weight: 400;
+font-style: normal;
+letter-spacing: normal;
+line-height: 50px;
+text-align: center;
+/* Text style for "D, onec se" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+.donec{
+	margin: 26px 372px 0px 347px;
+}
+.chel{
+	border: 10px solid white;
+}
+.chel{
+	margin: 77px 310px 0px 289px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.don{
+/* Style for "Donec ared" */
+opacity: 0.8;
+color: #273d46;
+font-family: "Times New Roman PSMT";
+font-size: 24px;
+font-style: normal;
+letter-spacing: normal;
+text-align: left;
+/* Text style for "D, onec ar" */
+font-style: normal;
+letter-spacing: normal;
+}
+.don{
+	margin: 97px 370px 0px 334px;
+}
+
+.second{
+	line-height: 40px;
+}
+.first{
+	line-height: 40px;
+}
+
+
+
+
+
+
+
+
+
+.galka{
+	display: inline-block;
+	width: 25px;
+	height: 17px;
+	margin: 62px 0px 0px 331px;
+}
+.putt{
+	/* Style for "Put on thi" */
+width: 421px;
+height: 19px;
+text-shadow: 0 1px 0 rgba(0, 0, 0, 0.3);
+color: #273d46;
+font-family: "Arial MT";
+font-size: 20px;
+font-weight: 400;
+font-style: normal;
+letter-spacing: normal;
+line-height: 36px;
+text-align: left;
+/* Text style for "P, ut on t" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+.putt{
+	display: inline-block;
+	margin: 64px 640px 0px 11px;
+}
+.vrat{
+	/* Style for "A detailed" */
+width: 332px;
+height: 19px;
+color: #80b7b3;
+font-family: "Arial MT";
+font-size: 20px;
+font-weight: 400;
+font-style: italic;
+letter-spacing: normal;
+line-height: 36px;
+text-align: left;
+/* Text style for "A detailed" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+.vrat{
+	display: inline-block;
+	margin: 15px 730px 0px 11px;
+}
+.galkaa{
+	display: inline-block;
+	margin: 15px 0px 0px 330px;
+}
+.galkaaa{
+	display: inline-block;
+	margin: 17px 0px 0px 330px;
+}
+.vratt{
+	/* Style for "Tell us ab" */
+width: 377px;
+height: 20px;
+color: #273d46;
+font-family: "Arial MT";
+font-size: 20px;
+font-weight: bold;
+font-style: normal;
+letter-spacing: normal;
+line-height: 36px;
+text-align: left;
+/* Text style for "Tell us ab" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+.vratt{
+	display: inline-block;
+	margin: 17px 670px 0px 9px;
+}
+.vratb{
+	display: inline-block;
+	margin: 17px 659px 0px 9px;
+}
+.vratb{
+	/* Style for "Associate" */
+width: 397px;
+height: 19px;
+opacity: 0.3;
+color: #273d46;
+font-family: "Arial MT";
+font-size: 20px;
+font-weight: 400;
+font-style: normal;
+letter-spacing: normal;
+line-height: 36px;
+text-align: left;
+text-decoration: line-through;
+/* Text style for "Associate" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+.galkb{
+	display: inline-block;
+	margin: 17px 0px 0px 330px;
+}
+.stor{
+	background-color: #80b7b3;
+	background-image: url(Shape_2.png) ;
+	background-repeat: no-repeat;
+	background-position: 151px 15px;
+	margin: 40px 911px 0px 330px;
+	padding: 17px 59px 17px 30px;
+	border: 0px solid #000;
+	border-radius: 9999px;
+}
+.stor{
+/* Style for "Full Story" */
+color: #ffffff;
+font-family: "Arial MT";
+font-size: 14px;
+font-weight: 400;
+font-style: normal;
+letter-spacing: normal;
+line-height: 40px;
+text-align: left;
+text-transform: uppercase;
+/* Text style for "Full Story" */
+font-style: normal;
+letter-spacing: 2.8px;
+line-height: normal;
+}
